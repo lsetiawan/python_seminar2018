@@ -1,0 +1,8 @@
+name: pyseminar
+channels:
+  - conda-forge
+  - damianavila82
+dependencies:
+  - python=3.6
+  - jupyter
+  - rise
